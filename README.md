@@ -1,1 +1,2 @@
-# comp-vision-demo
+
+# Face Detection using OpenCV and Streamlit
